@@ -1,5 +1,6 @@
 - set-up PSQL
 - meet the requirements
+- add `logging`
 - wrap with Docker
 - add `unittest` (with contexts, mock-patches, etc.)
 - set-up ElasticSearch (probably, via dsl) support for queries
